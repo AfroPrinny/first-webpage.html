@@ -1,0 +1,72 @@
+.header{
+background-color: #1F2932;
+}
+.top{
+background-color: #1F2932;
+color: #F9FAF8;
+}
+
+
+img{
+width: 5%;
+height:5%;
+}
+header{
+background-color: #1F2932;
+margin: 20px;
+
+}
+.top h1{
+color: #F9FAF8;
+font-size: 48px;
+font-style: bold;
+}
+
+left-links{
+font-size: 18px;
+color: #E5E7EB; display:
+}
+
+.jojo3{
+display: block;
+margin-left: 300px;
+}
+
+top img{
+width: 20%;
+height: auto;
+flex: display;
+
+}
+.information info{
+display: inline-block;
+flex-direction: row;
+}
+
+.quotegroup{
+background-color: #E5E7Eb;
+
+}
+.quote{
+font-size: 36px;
+font-color: #1f2937;
+font-style: light italic;
+}
+
+.footer{
+flex:display;
+align-items: center;
+background-color: #3882f6;
+padding:50px;
+width: 50%;
+color: white;
+
+}
+
+button{
+background-color: #3882f6;
+color: white;
+border-color: white;
+border-radius: 5px;
+}
+
